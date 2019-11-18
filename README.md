@@ -14,27 +14,27 @@
 
 设计模式分类：创建型(creation)、结构型(domain)、行为型(action)
 创建型：
-    单例模式：
-    工厂模式：
-    抽象工厂模式：
+    单例模式：com.pattern.creation.abstractfactory
+    工厂模式：com.pattern.creation.factory
+    抽象工厂模式：com.pattern.creation
     原型模式：
     建造者模式：
 结构型：
     代理模式：
-    装饰器模式：
+    装饰器模式：com.pattern.domain.decoratorpattern
     适配器模式：
     组合模式：
     桥梁模式（桥接模式）：
     外观模式：
     享元模式：
 行为型：
-    模板模式：
+    模板模式：com.pattern.action.templatepattern
     命令模式：
     责任链模式：
-    策略模式：
+    策略模式：com.pattern.action.strategypattern
     迭代器模式：
     中介者模式：
     观察者模式：
     备忘录模式：
-    访问者模式：
+    访问者模式：com.pattern.action.visitorpattern
     解释器模式：
