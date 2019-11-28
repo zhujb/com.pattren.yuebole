@@ -2,6 +2,7 @@ package com.pattern.domain.decoratorpattern;
 
 import com.pattern.domain.decoratorpattern.pattern.IDecorator;
 import com.pattern.domain.decoratorpattern.pattern.impl.RedDecorator;
+import com.pattern.domain.decoratorpattern.service.impl.Cilcie;
 import com.pattern.domain.decoratorpattern.service.impl.Rectangle;
 
 /**
