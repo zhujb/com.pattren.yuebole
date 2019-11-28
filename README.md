@@ -17,13 +17,13 @@
     单例模式：com.pattern.creation.abstractfactory
     工厂模式：com.pattern.creation.factory
     抽象工厂模式：com.pattern.creation
-    原型模式：
+    原型模式：com.pattern.prototype
     建造者模式：
 结构型：
     代理模式：
     装饰器模式：com.pattern.domain.decoratorpattern
     适配器模式：
-    组合模式：
+    组合模式：com.parrten.domain.compositepattern
     桥梁模式（桥接模式）：
     外观模式：
     享元模式：
